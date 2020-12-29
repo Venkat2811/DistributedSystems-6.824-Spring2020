@@ -3,6 +3,14 @@ Distributed Systems pet project learning using
 - https://pdos.csail.mit.edu/6.824/index.html 
 - https://www.youtube.com/playlist?list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB 
 
+## Exercises
+- [] lab1 Map-Reduce
+- [] lab2 Raft
+- [] lab3 KV-Raft
+- [] lab4 KV-Shard
+    - [] challenge1
+    - [] challenge2
+
 ### Setup
 
 Install go

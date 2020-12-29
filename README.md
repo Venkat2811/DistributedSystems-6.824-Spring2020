@@ -5,6 +5,11 @@ Distributed Systems pet project learning using
 
 ### Setup
 
+Install go
+```
+$ brew install go@1.13
+```
+
 Setup upstream url to
 ```
 $ git remote add upstream git://g.csail.mit.edu/6.824-golabs-2020

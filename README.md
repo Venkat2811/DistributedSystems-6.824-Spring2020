@@ -24,7 +24,20 @@ $ git remote add upstream git://g.csail.mit.edu/6.824-golabs-2020
 ```
 
 ### Tests
+
+For Mac OS X, install timeout using:
+```
+https://stackoverflow.com/a/21118126
+```
+
 run
 ```
 $ go test path/to/test/file.go
+```
+
+### Some Notes
+
+Ignore messages like these from Go RPC package
+```
+2020/12/30 18:47:47 rpc.Register: method "Done" has 1 input parameters; needs exactly three
 ```

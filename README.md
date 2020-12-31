@@ -4,12 +4,25 @@ Distributed Systems pet project learning using
 - https://www.youtube.com/playlist?list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB 
 
 ## Exercises
+- [] Lab 0: Go-Concurrency-Basics
 - [] Lab 1: Map-Reduce
 - [] Lab 2: Raft-FaultTolerance
 - [] Lab 3: KV-Server-With-Raft
 - [] Lab 4: KV-Server-With-Shard-And-Raft
     - [] Challenge 1: Garbage collection of state
     - [] challenge 2: Client requests during configuration changes
+
+## Go Concurrency Basics
+Go concurrency primitives exercises based on 1st half of the [lecture](https://www.youtube.com/watch?v=UzzcUS2OHqo&list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB&index=5)
+
+packages for the exercises are named in `concurrency-basics_<>_<>` format
+
+#### Run
+To run programs here, use:
+```
+$ cd src/main
+$ go run basics-runner.go
+```
 
 ### Setup
 

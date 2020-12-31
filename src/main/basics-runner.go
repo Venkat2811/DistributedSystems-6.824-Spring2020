@@ -7,7 +7,8 @@ import (
 	//"concurrency-basics_2_mutex"
 	// "concurrency-basics_2_mutex"
 	// "concurrency-basics_2_mutex"
-	"concurrency-basics_3_conditional_variables"
+	//"concurrency-basics_3_conditional_variables"
+	 "concurrency-basics_4_channels"
 )
 
 func main() {
@@ -22,5 +23,10 @@ func main() {
 	//concurrency_basics_2_mutex.TransactionsUsingBadLock()
 	//concurrency_basics_2_mutex.TransactionsUsingCorrectLock()
 	//concurrency_basics_3_conditional_variables.MutexLimitation()
-	concurrency_basics_3_conditional_variables.ConditionVarDemo()
+	//concurrency_basics_3_conditional_variables.ConditionVarDemo()
+	//concurrency_basics_4_channels.UnbufferedChannel()
+	//concurrency_basics_4_channels.UnBufferedDeadLock()
+	//concurrency_basics_4_channels.BufferedChannel()
+	//concurrency_basics_4_channels.ProducerConsumer()
+	concurrency_basics_4_channels.ClosureLoopWithChannel()
 }

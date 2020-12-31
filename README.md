@@ -11,6 +11,7 @@ Distributed Systems pet project learning using
 - [ ] Lab 4: KV-Server-With-Shard-And-Raft
     - [ ] Challenge 1: Garbage collection of state
     - [ ] challenge 2: Client requests during configuration changes
+- [ ] Lab 5: Paxos [from 2015 labs](http://nil.csail.mit.edu/6.824/2015/labs/lab-3.html)   
 
 ## Go Concurrency Basics
 Go concurrency primitives exercises based on 1st half of the [lecture](https://www.youtube.com/watch?v=UzzcUS2OHqo&list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB&index=5)

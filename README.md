@@ -4,12 +4,12 @@ Distributed Systems pet project learning using
 - https://www.youtube.com/playlist?list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB 
 
 ## Exercises
-- [] lab1 Map-Reduce
-- [] lab2 Raft-FaultTolerance
-- [] lab3 KV-Server-With-Raft
-- [] lab4 KV-Server-With-Raft-And-Shard
-    - [] challenge1
-    - [] challenge2
+- [] Lab 1: Map-Reduce
+- [] Lab 2: Raft-FaultTolerance
+- [] Lab 3: KV-Server-With-Raft
+- [] Lab 4: KV-Server-With-Shard-And-Raft
+    - [] Challenge 1: Garbage collection of state
+    - [] challenge 2: Client requests during configuration changes
 
 ### Setup
 

@@ -4,7 +4,10 @@ package main
 
 import (
 	//"concurrency-basics_1_closure"
-	"concurrency-basics_2_mutex"
+	//"concurrency-basics_2_mutex"
+	// "concurrency-basics_2_mutex"
+	// "concurrency-basics_2_mutex"
+	"concurrency-basics_3_conditional_variables"
 )
 
 func main() {
@@ -17,5 +20,7 @@ func main() {
 	//concurrency_basics_2_mutex.FlakyCounter()
 	//concurrency_basics_2_mutex.CounterWithLock()
 	//concurrency_basics_2_mutex.TransactionsUsingBadLock()
-	concurrency_basics_2_mutex.TransactionsUsingCorrectLock()
+	//concurrency_basics_2_mutex.TransactionsUsingCorrectLock()
+	//concurrency_basics_3_conditional_variables.MutexLimitation()
+	concurrency_basics_3_conditional_variables.ConditionVarDemo()
 }

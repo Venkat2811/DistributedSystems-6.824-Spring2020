@@ -18,6 +18,12 @@ api.key
 # Dependency directories (remove the comment below to include it)
 # vendor/
 
+pkg/
+api.key
+.api.key.trimmed
+*-handin.tar.gz
+
+
 #IntelliJ
 *.iml
 /.DS_Store

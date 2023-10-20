@@ -1,4 +1,4 @@
-## DistributedSystems-6.824-Spring2020
+## DistributedSystems-6.824-Spring2023
 Distributed Systems pet project learning using MIT OpenCourseWare
 - https://pdos.csail.mit.edu/6.824/index.html 
 - https://www.youtube.com/playlist?list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB 
@@ -29,12 +29,12 @@ $ go run basics-runner.go
 
 Install go
 ```
-$ brew install go@1.13
+$ brew install go@1.19
 ```
 
 Setup upstream url to
 ```
-$ git remote add upstream git://g.csail.mit.edu/6.824-golabs-2020
+$ git remote add upstream git://g.csail.mit.edu/6.5840-golabs-2023
 ```
 
 ### Tests
